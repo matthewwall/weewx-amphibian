@@ -1,8 +1,8 @@
-# $Id: install.py 1373 2015-10-14 13:50:32Z mwall $
 # installer for amphibian
 # Copyright 2014 Matthew Wall
+# Distributed under the terms of the GNU Public License (GPLv3)
 
-from setup import ExtensionInstaller
+from weecfg.extension import ExtensionInstaller
 
 def loader():
     return AmphibianInstaller()

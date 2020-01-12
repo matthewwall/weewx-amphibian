@@ -1,5 +1,6 @@
 This is the skin amphibian for the weewx weather system.
 Copyright 2012-2014 Matthew Wall
+Distributed under terms of the GPLv3
 
 Installation instructions:
 
